@@ -7,7 +7,6 @@
 .expo
 .npmignore
 .vscode
-.cursor
 package-lock.json
 yarn.lock
 yarn-error.log
