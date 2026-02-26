@@ -1,7 +1,7 @@
 workflows:
   info-and-versions:
     name: Info and Versions
-    instance_type: linux_x2
+    # instance_type: linux_x2
     triggering:
       events:
         - push
